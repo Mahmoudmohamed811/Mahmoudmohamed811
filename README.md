@@ -15,8 +15,8 @@ Currently enrolled in the **Cloud Architecture Professional Training at ITI**.
 - 💻 **Operating Systems:** Linux, Windows Server  
 - 🛠️ **Automation & Scripting:** Python, Bash  
 - 🔒 **Networking & Security:** VPC, IAM, Security Groups, NSX  
-- 📦 **Version Control & CI/CD:** Git, GitHub Actions, GitLab CI/CD  
-- 📊 **Monitoring:** CloudWatch, Prometheus (basic), Grafana  
+- 📦 **Version Control & CI/CD:** Git, GitHub Actions, Jenkins (basic) 
+- 📊 **Monitoring:** Prometheus (basic), Grafana (basic) 
 
 ---
 
