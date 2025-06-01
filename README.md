@@ -1,9 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Mahmoud Abdelhamid</h1>
 <h3 align="center">DevOps & Cloud Engineer | CKA & AWS Certified | ITI Cloud Architecture Trainee</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoudmohamed811&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 - 🔭 I’m currently focused on mastering **DevOps pipelines** and **Cloud automation**  
 - 🌱 Currently learning **GitOps, CI/CD best practices, and Monitoring**  
